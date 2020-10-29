@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/amit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Amit"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="82dp" />
+
+    <Button
+        android:id="@+id/mudit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mudit"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="158dp" />
+
+    <Button
+        android:id="@+id/rahul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rahul"
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="249dp" />
+
+    <Button
+        android:id="@+id/hardeep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hardeep"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="345dp" />
+
+    <Button
+        android:id="@+id/manas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manas"
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="448dp" />
+</LinearLayout>
